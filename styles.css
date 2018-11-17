@@ -1,0 +1,113 @@
+body {
+    font-family: 'Titillium Web', sans-serif;
+    background-color: lightgray;
+}
+
+h2, p, .readme-wrapper {
+    text-align: center;
+    color: brown;
+}
+
+.boxes {
+    display: block;
+    margin: 50px;
+    padding: 2em;
+    border: solid;
+    border-radius: 50px;
+    width: 20%;
+}
+
+/*
+.readme-wrapper {
+    color: azure;
+    background-color: blueviolet;
+    text-align: center;
+    text-decoration: none;
+}
+*/
+
+a, a:link, a:visited {
+    color: hotpink;
+    text-align: center;
+    text-decoration: none;
+}
+
+a:hover {
+    color: blue;
+}
+
+.red-20 {
+    color: red;
+    font-size: 2em;
+}
+
+#box1 {
+    background-color: aqua;
+}
+
+#box2 {
+    background-color: red;
+    position: relative;
+}
+
+#box3 {
+    background-color: gold;
+}
+
+#box4 {
+    background-color: orange;
+}
+
+.bkimg {
+    width: 2em;
+    height: 2em;
+    background-color: blueviolet;
+    bottom: 146px;
+    right: 23px;
+    display: inline-block;
+    margin-right: 5px;
+}
+
+/*
+h1 {
+    color: seagreen;
+}
+*/
+
+
+.h1-class {
+    color: rgb(211, 146, 48);
+}
+
+.h1-class2 {
+    color: brown;
+}
+
+#show1 {
+    color: aqua;
+}
+
+#show2 {
+    color: rgb(65, 15, 182);
+}
+
+#show3 {
+    color: rgb(41, 175, 63);
+}
+
+#show4 {
+    color: rgb(197, 58, 190);
+}
+
+#show5 {
+    color: rgb(169, 189, 116);
+}
+
+.ol-border {
+    display: block;
+    border: solid;
+    margin: 50px;
+    padding: 1em;
+    width: 20%;
+    border-width: 2px;
+}
